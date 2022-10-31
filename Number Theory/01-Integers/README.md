@@ -1,4 +1,4 @@
-# Number Theory
+# Integers
 ## Subsets of Numbers 
 **Intergers**
 - $...., -3, -2, -1, 0, 1, 2, 3, ....$
